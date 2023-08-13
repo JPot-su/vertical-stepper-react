@@ -1,6 +1,6 @@
 {
     "name": "@jpot-su/vertical-stepper-react",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "private": false,
     "author": "serpo-dev",
     "description": "Vertical stepper similar to MUI with visible steps, built-in support for 'success' and 'error' styles, the ability to automatically set the 'success' status when viewing the item completely, and the capability to easily customize icons on each step.",
@@ -45,9 +45,8 @@
     "module": "./dist/index.js",
     "files": [
         "dist"
-    ],
-    "repository": {
-        "type": "git",
+
+",
         "url": "git+https://github.com/JPot-su/vertical-stepper-react"
     },
     "bugs": {
