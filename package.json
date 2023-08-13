@@ -25,7 +25,7 @@
         "webpack-cli": "^5.1.4"
     },
     "publishConfig": {
-        "@jpot-su:registry": "https://npm.pkg.github.com/"
+        "@jpot-su:registry": "https://registry.npmjs.org/"
     },
     "keywords": [
         "react",
