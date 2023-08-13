@@ -16,5 +16,5 @@ npm install @jpot-su/vertical-stepper-react
 ## How to use
 
 ```
-import VerticalStepper from "@jpot-su/vertical-stepper-react"
+import { VerticalStepper } from "@jpot-su/vertical-stepper-react"
 ```
